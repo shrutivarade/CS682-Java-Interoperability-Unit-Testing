@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_functional_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_functional_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_functional_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/interOperability_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/interOperability_tests/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/interOperability_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_end2end_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_end2end_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/tests/at_end2end_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client_mobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/CS682_/at_client_sdk/packages/at_client/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
